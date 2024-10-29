@@ -1,1 +1,1 @@
-# Project php
+# Project PHP and JS
